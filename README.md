@@ -1,7 +1,7 @@
 # Pack modified
 The base for this preset is from [Packy](https://github.com/Toxblh/MTMR-presets/tree/master/packy) by **Packy Anderson**.
 Overall there isn’t that much difference in terms of usability.
-![](Main.png)
+![](Images/Main.png)
 * Esc key ( escape key )
 * Function Key Group
 * Partial Dock with button to expand to a full dock
@@ -12,7 +12,7 @@ Overall there isn’t that much difference in terms of usability.
 * Battery level indicator
 * Clock
 
-![](Settings.png)
+![](Images/Settings.png)
 * Close button
 * Brightness slider
 * Sound Slider
@@ -22,12 +22,12 @@ Overall there isn’t that much difference in terms of usability.
 * Skip forward playback
 * Github page of MTMR or Packymod
 
-![](FnKeys.png)
+![](Images/FnKeys.png)
 * Close button
 * Function keys
 * PageUp
 * PageDown
 
-![](Expanded.png)
+![](Images/Expanded.png)
 * Close button
 * Opened apps
